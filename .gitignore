@@ -1,0 +1,11 @@
+.env
+root.pem
+.bashrc
+genai/
+.ipynb_checkpoints/
+sampledb_multigen/
+multigen_vecdb/
+MultiFileVectorDB/
+data/
+.cache/
+__pycache__/

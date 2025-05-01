@@ -1,0 +1,14 @@
+autogen
+langchain
+faiss-cpu
+pdfplumber
+langchain_core
+camelot-py
+langchain_community
+pandas
+numpy
+regex
+langchain_openai
+torch
+tensorflow
+tqdm==4.67.1
