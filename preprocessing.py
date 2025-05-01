@@ -20,8 +20,6 @@ from langchain_community.docstore.in_memory import InMemoryDocstore
 # import faiss
 import uuid
 
-ACCESS_TOKEN = "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"
-
 def image_analysis(pdf_dir, page):
     """
         This function allows to debug a page with the help of plumber loader 
